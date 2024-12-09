@@ -42,4 +42,5 @@ It retrieves data from a relational database using query parameters.
 
 ## PostmanTest
 The following screenshot shows a successful response when testing the API using Postman:
-![Postman screenshot](https://github.com/user-attachments/assets/c7a77752-7b7b-4cc5-8794-15d107575dff)
+![Postman screenshot](https://github.com/user-attachments/assets/1509aa1d-9949-4fe0-a705-eb506233fe0a)
+
